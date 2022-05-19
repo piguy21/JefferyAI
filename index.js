@@ -36,4 +36,4 @@ client.once("ready", () => {
 });
 
 // Login
-client.login("TOKEN GOES HERE")
+client.login("OTc2NjM1Nzk5NzMyODk1ODM0.GM1D-U._u3JuIbSeoZQRya7ihgb788ReZPtlf-u8mpRiA");
